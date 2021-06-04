@@ -3,7 +3,7 @@ In this dataset we have done the Data Analysis and Visualization of Good-read Bo
 Dataset is available on Kaggle.
 
 # Requirments
-Python3
+Python
 Numpy 
 Pandas
 Matplotlib
